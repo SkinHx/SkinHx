@@ -6,9 +6,6 @@
 
 <h2 align="center">Since you're here, take a look at what I'm working on. I may have failed today, but tomorrow I will be more evolved.</h2>
 
-
----
-
 <div align="center"> 
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SkinHx&show_icons=true&hide_border=true)
