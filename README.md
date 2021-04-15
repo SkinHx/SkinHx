@@ -1,9 +1,5 @@
 <h1 align="center">Hi visitor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">:alien:</h1>
 
-<p align="center">
-<img src="img/personal.jpg" style="border-radius:50%" width="400px">
-</p>
-
 <h2 align="center">Since you're here, take a look at what I'm working on. I may have failed today, but tomorrow I will be more evolved.</h2>
 
 <div align="center"> 
@@ -27,7 +23,6 @@
 
 ---
 
-<br />
 <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-froelich-developer/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-froelich-developer/"></a>
